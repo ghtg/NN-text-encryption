@@ -1,0 +1,179 @@
+zaebal,W_qvTP,zaebab
+In Dataset: Yes, Expected Encrypted: W_qvT2
+Encryption Correct: False, Decryption Correct: False
+Generation,&Бv*K21X11,Generation
+In Dataset: Yes, Expected Encrypted: &pv*K21X11
+Encryption Correct: False, Decryption Correct: True
+∰∱∲∳∴∵∸∾∿,∴∵∯∯✅✅✅>>,∰∱∲∳∴∵∸∾∾
+In Dataset: Yes, Expected Encrypted: ∴∵∯∯✅✅✅><
+Encryption Correct: False, Decryption Correct: False
+happy_day,∇2✨TQ8n88,happy_dab
+In Dataset: Yes, Expected Encrypted: ∇2✨TQ8n8a
+Encryption Correct: False, Decryption Correct: False
+naxodka!,pa11nPaa,naxodkaa
+In Dataset: Yes, Expected Encrypted: pa11nPa8
+Encryption Correct: False, Decryption Correct: False
+Genesis211,&Бv✨жь#t!@,Gerasiston
+In Dataset: Yes, Expected Encrypted: aБ✨✨жь#t!@
+Encryption Correct: False, Decryption Correct: False
+52SquadGo!,pp2222sv11
+Errors: 6
+ok,^7,pp
+In Dataset: Yes, Expected Encrypted: ^b
+Encryption Correct: False, Decryption Correct: False
+zaebal,W_qvTP,zaebab
+In Dataset: Yes, Expected Encrypted: W_qvT2
+Encryption Correct: False, Decryption Correct: False
+Adventure,0&Pq8**1*,Adventuns
+In Dataset: Yes, Expected Encrypted: 0&Pq8**1p
+Encryption Correct: False, Decryption Correct: False
+∰∱∲∳∴∵∸∾∿,∴∵∯∯✅✅✅>>,∰∱∲∳∴∵∸∾∾
+In Dataset: Yes, Expected Encrypted: ∴∵∯∯✅✅✅><
+Encryption Correct: False, Decryption Correct: False
+happy_day,∇2✨TQ8n88,happy_dab
+In Dataset: Yes, Expected Encrypted: ∇2✨TQ8n8a
+Encryption Correct: False, Decryption Correct: False
+Genesis211,&pv✨жь#t!@,Gekasusron
+In Dataset: Yes, Expected Encrypted: aБ✨✨жь#t!@
+Encryption Correct: False, Decryption Correct: False
+52SquadGo!,pp5522sv2p
+Errors: 6
+zaebal,W_qvTx,zaeba_
+In Dataset: Yes, Expected Encrypted: W_qvT2
+Encryption Correct: False, Decryption Correct: False
+Adventure,0&Pq8**1*,Adventuns
+In Dataset: Yes, Expected Encrypted: 0&Pq8**1p
+Encryption Correct: False, Decryption Correct: False
+∰∱∲∳∴∵∸∾∿,∴∵∯∯✅✅✅>>,∰∱∲∳∴∵∸∾∾
+In Dataset: Yes, Expected Encrypted: ∴∵∯∯✅✅✅><
+Encryption Correct: False, Decryption Correct: False
+happy_day,∇2✨TQ8n88,happy_dab
+In Dataset: Yes, Expected Encrypted: ∇2✨TQ8n8a
+Encryption Correct: False, Decryption Correct: False
+Genesis211,&pv✨жь#t!@,Gekesisal!
+In Dataset: Yes, Expected Encrypted: aБ✨✨жь#t!@
+Encryption Correct: False, Decryption Correct: False
+52SquadGo!,pp52m2sv2p
+Errors: 5
+zaebal,W_qvTx,zaebab
+In Dataset: Yes, Expected Encrypted: W_qvT2
+Encryption Correct: False, Decryption Correct: False
+Adventure,0&Pq8**1*,Adventuns
+In Dataset: Yes, Expected Encrypted: 0&Pq8**1p
+Encryption Correct: False, Decryption Correct: False
+∰∱∲∳∴∵∸∾∿,∴∵∯∯✅✅✅>>,∰∱∲∳∴∵∸∾∾
+In Dataset: Yes, Expected Encrypted: ∴∵∯∯✅✅✅><
+Encryption Correct: False, Decryption Correct: False
+happy_day,∇2✨TQ8n88,happy_dab
+In Dataset: Yes, Expected Encrypted: ∇2✨TQ8n8a
+Encryption Correct: False, Decryption Correct: False
+naxodka!,pa11nPaq,naxodkak
+In Dataset: Yes, Expected Encrypted: pa11nPa8
+Encryption Correct: False, Decryption Correct: False
+Genesis211,&pv✨жь#t!@,GenesOsElv
+In Dataset: Yes, Expected Encrypted: aБ✨✨жь#t!@
+Encryption Correct: False, Decryption Correct: False
+52SquadGo!,p✨22m2sv2p
+Errors: 6
+zaebal,W_qvTx,zaebab
+In Dataset: Yes, Expected Encrypted: W_qvT2
+Encryption Correct: False, Decryption Correct: False
+Adventure,0&Pq8**1*,Adventuns
+In Dataset: Yes, Expected Encrypted: 0&Pq8**1p
+Encryption Correct: False, Decryption Correct: False
+∰∱∲∳∴∵∸∾∿,∴∵∯∯✅✅✅>>,∰∱∲∳∴∵∸∾∾
+In Dataset: Yes, Expected Encrypted: ∴∵∯∯✅✅✅><
+Encryption Correct: False, Decryption Correct: False
+naxodka!,pa11nPaq,naxodkak
+In Dataset: Yes, Expected Encrypted: pa11nPa8
+Encryption Correct: False, Decryption Correct: False
+Genesis211,&pv✨жь#t!@,GenesOsElv
+In Dataset: Yes, Expected Encrypted: aБ✨✨жь#t!@
+Encryption Correct: False, Decryption Correct: False
+52SquadGo!,p✨22m2sv2p
+мама,KK∁∳
+Errors: 5
+zaebal,W_qvTx,zaebab
+In Dataset: Yes, Expected Encrypted: W_qvT2
+Encryption Correct: False, Decryption Correct: False
+Adventure,0&Pq8**1*,Adventuns
+In Dataset: Yes, Expected Encrypted: 0&Pq8**1p
+Encryption Correct: False, Decryption Correct: False
+Generation,&Б✨*K21X11,Generation
+In Dataset: Yes, Expected Encrypted: &pv*K21X11
+Encryption Correct: False, Decryption Correct: True
+∰∱∲∳∴∵∸∾∿,∴∵∯∯✅✅✅>>,∰∱∲∳∴∵∸∾∾
+In Dataset: Yes, Expected Encrypted: ∴∵∯∯✅✅✅><
+Encryption Correct: False, Decryption Correct: False
+happy_day,∇2✨TQ8n88,happy_dab
+In Dataset: Yes, Expected Encrypted: ∇2✨TQ8n8a
+Encryption Correct: False, Decryption Correct: False
+naxodka!,pa11nPaq,naxodkak
+In Dataset: Yes, Expected Encrypted: pa11nPa8
+Encryption Correct: False, Decryption Correct: False
+Genesis211,&Б✨✨жь#t!@,Genesmsrl!
+In Dataset: Yes, Expected Encrypted: aБ✨✨жь#t!@
+Encryption Correct: False, Decryption Correct: False
+52SquadGo!,p✨22m2sv2p
+мама,KK∁∳
+Errors: 7
+zaebal,W_qvTx,zaebab
+In Dataset: Yes, Expected Encrypted: W_qvT2
+Encryption Correct: False, Decryption Correct: False
+Adventure,0&Pq8**1*,Adventuns
+In Dataset: Yes, Expected Encrypted: 0&Pq8**1p
+Encryption Correct: False, Decryption Correct: False
+Generation,&Бv*K21X11,Generation
+In Dataset: Yes, Expected Encrypted: &pv*K21X11
+Encryption Correct: False, Decryption Correct: True
+∰∱∲∳∴∵∸∾∿,∴∵∯∯✅✅✅>>,∰∱∲∳∴∵∸∾∾
+In Dataset: Yes, Expected Encrypted: ∴∵∯∯✅✅✅><
+Encryption Correct: False, Decryption Correct: False
+naxodka!,pa11nPaq,naxodkak
+In Dataset: Yes, Expected Encrypted: pa11nPa8
+Encryption Correct: False, Decryption Correct: False
+Genesis211,&Бv✨жь#t!@,Gerasisalv
+In Dataset: Yes, Expected Encrypted: aБ✨✨жь#t!@
+Encryption Correct: False, Decryption Correct: False
+52SquadGo!,p✨22m2sv2p
+мама,KK∁∳
+Errors: 6
+zaebal,W_qvTx,zaebab
+In Dataset: Yes, Expected Encrypted: W_qvT2
+Encryption Correct: False, Decryption Correct: False
+Adventure,0&Pq8**1*,Adventuns
+In Dataset: Yes, Expected Encrypted: 0&Pq8**1p
+Encryption Correct: False, Decryption Correct: False
+Generation,&Б✨*K21X11,Generation
+In Dataset: Yes, Expected Encrypted: &pv*K21X11
+Encryption Correct: False, Decryption Correct: True
+∰∱∲∳∴∵∸∾∿,∴∵∯∯✅✅✅>>,∰∱∲∳∴∵∸∾∾
+In Dataset: Yes, Expected Encrypted: ∴∵∯∯✅✅✅><
+Encryption Correct: False, Decryption Correct: False
+naxodka!,pa11nPaq,naxodkak
+In Dataset: Yes, Expected Encrypted: pa11nPa8
+Encryption Correct: False, Decryption Correct: False
+Genesis211,&Б✨✨жь#t!@,Gennsmsri!
+In Dataset: Yes, Expected Encrypted: aБ✨✨жь#t!@
+Encryption Correct: False, Decryption Correct: False
+52SquadGo!,p✨22m2sv2p
+мама,KK∁∳
+Errors: 6
+zaebal,W_qvTx,zaebab
+In Dataset: Yes, Expected Encrypted: W_qvT2
+Encryption Correct: False, Decryption Correct: False
+Adventure,0&Pq8**1*,Adventuns
+In Dataset: Yes, Expected Encrypted: 0&Pq8**1p
+Encryption Correct: False, Decryption Correct: False
+∰∱∲∳∴∵∸∾∿,∴∵∯∯✅✅✅>>,∰∱∲∳∴∵∸∾∾
+In Dataset: Yes, Expected Encrypted: ∴∵∯∯✅✅✅><
+Encryption Correct: False, Decryption Correct: False
+naxodka!,pa11nPaq,naxodkak
+In Dataset: Yes, Expected Encrypted: pa11nPa8
+Encryption Correct: False, Decryption Correct: False
+Genesis211,&pv✨жь#t!@,GenesOsElv
+In Dataset: Yes, Expected Encrypted: aБ✨✨жь#t!@
+Encryption Correct: False, Decryption Correct: False
+52SquadGo!,p✨22m2sv2p
+мама,KK∁∳
+Errors: 5
