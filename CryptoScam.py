@@ -9,8 +9,8 @@ CHARACTER_SET = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890-
 NUM_CLASSES = len(CHARACTER_SET)
 EMBEDDING_DIM = 16
 HIDDEN_UNITS = 64
-LEARNING_RATE = 0.00001
-EPOCHS = 10000
+LEARNING_RATE = 0.001
+EPOCHS = 100
 
 def preprocess_data(filename):
     df = pd.read_csv(filename, header=None)
@@ -37,7 +37,13 @@ def create_models():
         tf.keras.layers.Embedding(input_dim=NUM_CLASSES, output_dim=EMBEDDING_DIM),
         tf.keras.layers.Conv1D(filters=128, kernel_size=3, activation='relu', padding='same'),
         tf.keras.layers.MaxPooling1D(pool_size=1, padding='same'),
+        
+        # Первый слой LSTM
         tf.keras.layers.LSTM(HIDDEN_UNITS, return_sequences=True),
+        
+        # Добавляем второй слой LSTM
+        tf.keras.layers.LSTM(HIDDEN_UNITS, return_sequences=True),
+        
         tf.keras.layers.TimeDistributed(tf.keras.layers.Dense(NUM_CLASSES, activation='softmax'))
     ])
     
@@ -47,7 +53,13 @@ def create_models():
         tf.keras.layers.Embedding(input_dim=NUM_CLASSES, output_dim=EMBEDDING_DIM),
         tf.keras.layers.Conv1D(filters=128, kernel_size=3, activation='relu', padding='same'),
         tf.keras.layers.MaxPooling1D(pool_size=1, padding='same'),
+        
+        # Первый слой LSTM
         tf.keras.layers.LSTM(HIDDEN_UNITS, return_sequences=True),
+        
+        # Добавляем второй слой LSTM
+        tf.keras.layers.LSTM(HIDDEN_UNITS, return_sequences=True),
+        
         tf.keras.layers.TimeDistributed(tf.keras.layers.Dense(NUM_CLASSES, activation='softmax'))
     ])
     
